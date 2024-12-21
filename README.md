@@ -24,3 +24,10 @@ You can install the required libraries by running:
 
 ```bash
 pip install pandas streamlit plotly numpy scipy
+```
+
+## Dashboard Preview
+
+Below is a preview of the Redcap Data Analysis app's dashboard:
+
+![Dashboard Interface](images/interface.png)
