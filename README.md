@@ -31,3 +31,11 @@ pip install pandas streamlit plotly numpy scipy
 Below is a preview of the Redcap Data Analysis app's dashboard:
 
 ![Dashboard Interface](images/interface.png)
+
+![Dashboard Interface](images/barplot_&_piechart.png)
+
+![Dashboard Interface](images/histogram_&_boxplot.png)
+
+![Dashboard Interface](images/correlation.png)
+
+![Dashboard Interface](images/statistical_analysis.png)
