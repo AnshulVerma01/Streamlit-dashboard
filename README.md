@@ -12,7 +12,7 @@ This Streamlit dashboard provides an interactive interface to analyze and visual
 
 ## Requirements
 
-To run this app, you'll need the following Python libraries:
+To run this dashboard, you'll need the following Python libraries:
 
 - pandas
 - streamlit
