@@ -1,4 +1,4 @@
-# Redcap Data Analysis Dashboard
+# Redcap Questionnaire Data Analysis Dashboard
 
 This Streamlit dashboard provides an interactive interface to analyze and visualize data from a CSV file containing Redcap questionnaire dataset information. The dashboard allows users to filter data based on various parameters such as gender and age, and generate heatmaps and statistical plots for numerical and categorical data. It also supports the calculation of correlations and the creation of summary statistics for selected columns.
 
