@@ -28,6 +28,12 @@ pip install pandas streamlit plotly numpy scipy
 
 ## Dashboard Preview
 
+Open the dashboard using streamlit:
+
+```python
+streamlit run streamlit_dashboard.py
+```
+
 Below is a preview of the Redcap Data Analysis app's dashboard:
 
 ![Dashboard Interface](images/interface.png)
